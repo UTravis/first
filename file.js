@@ -13,3 +13,7 @@ const person = {
 }
 
 person.name.second = 'Gregory';
+
+//changing the object memebers
+person.name.first = 'don';
+person.name.last = 'larry';
